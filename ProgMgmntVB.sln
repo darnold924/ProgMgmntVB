@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProgMgmntVB", "ProgMgmntVB\ProgMgmntVB.vbproj", "{86BDD75D-8443-46E1-8D02-288FAB4E0958}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DAL", "DAL\DAL.vbproj", "{50EA07E8-BB55-4A8B-81A7-0A0BFA7F0879}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Entities", "Entities\Entities.vbproj", "{5AC2DC21-567B-4586-AC7E-C1B2C1E59AE0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebApiVB", "WebApi\WebApiVB.vbproj", "{7EBB7F33-9396-4A16-BC33-494946C437DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86BDD75D-8443-46E1-8D02-288FAB4E0958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BDD75D-8443-46E1-8D02-288FAB4E0958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BDD75D-8443-46E1-8D02-288FAB4E0958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BDD75D-8443-46E1-8D02-288FAB4E0958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EA07E8-BB55-4A8B-81A7-0A0BFA7F0879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EA07E8-BB55-4A8B-81A7-0A0BFA7F0879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EA07E8-BB55-4A8B-81A7-0A0BFA7F0879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EA07E8-BB55-4A8B-81A7-0A0BFA7F0879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC2DC21-567B-4586-AC7E-C1B2C1E59AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC2DC21-567B-4586-AC7E-C1B2C1E59AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC2DC21-567B-4586-AC7E-C1B2C1E59AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC2DC21-567B-4586-AC7E-C1B2C1E59AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBB7F33-9396-4A16-BC33-494946C437DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBB7F33-9396-4A16-BC33-494946C437DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBB7F33-9396-4A16-BC33-494946C437DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBB7F33-9396-4A16-BC33-494946C437DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E01AEE2-FC0B-4251-851D-82684A17BE2A}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://darnold924x.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DAL\\DAL.vbproj
+		SccProjectName1 = DAL
+		SccLocalPath1 = DAL
+		SccProjectUniqueName2 = Entities\\Entities.vbproj
+		SccProjectName2 = Entities
+		SccLocalPath2 = Entities
+		SccProjectUniqueName3 = ProgMgmntVB\\ProgMgmntVB.vbproj
+		SccProjectName3 = ProgMgmntVB
+		SccLocalPath3 = ProgMgmntVB
+		SccProjectUniqueName4 = WebApi\\WebApiVB.vbproj
+		SccProjectName4 = WebApi
+		SccLocalPath4 = WebApi
+	EndGlobalSection
+EndGlobal
